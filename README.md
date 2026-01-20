@@ -74,5 +74,5 @@ streamlit run dashboard.py
 
 ## Author
 Akshaye Aaron Azariah
-Computer Science Undergraduate
-Aspiring VC & Data-Driven Strategist
+|Computer Science Undergraduate
+|Aspiring VC & Data-Driven Strategist
