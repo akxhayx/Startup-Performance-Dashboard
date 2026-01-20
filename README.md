@@ -1,4 +1,4 @@
-# 🚀 Startup Performance Dashboard
+# Startup Performance Dashboard
 
 ## Overview
 The **Startup Performance Dashboard** is a data-driven analytics tool designed to evaluate and visualize the **financial and operational health of early-stage startups**. Built using **Python and Streamlit**, it enables investors, analysts, and venture capital professionals to quickly interpret key metrics and identify **high-performing companies or potential risks**.
@@ -43,7 +43,7 @@ This project analyzes the **impact of government incentives and policy changes p
 ## Installation & Setup
 
 1. Clone the Repository
-git clone https://github.com/<your-username>/Startup-Performance-Dashboard.git
+git clone https://github.com/akxhayx/Startup-Performance-Dashboard.git
 cd Startup-Performance-Dashboard
 
 2. Create a Virtual Environment
@@ -58,12 +58,21 @@ pip install -r requirements.txt
 5. Run the Application
 streamlit run dashboard.py
 
-Project Structure
-Startup-Performance-Dashboard/
-│
-├── dashboard.py          # Main Streamlit application
-├── startups_data.csv     # Startup metrics and EV impact dataset
-├── requirements.txt     # Python dependencies
-└── README.md             # Project documentation
-git clone https://github.com/<your-username>/Startup-Performance-Dashboard.git
-cd Startup-Performance-Dashboard
+
+## Insights Generated
+- Identification of EV-aligned startups benefiting from government incentives
+- Detection of startups negatively impacted by EV adoption
+- Comparison of efficient vs inefficient startups using revenue, expense, and customer metrics
+- Signals relevant to early-stage VC decision-making
+
+## Potential Extensions
+- Integrate live startup data APIs (Crunchbase, Tracxn, PitchBook)
+- Add predictive modeling for EV adoption scenarios
+- Enable user-uploaded datasets
+- Extend analysis to other policy-driven sectors (AI, Climate Tech, FinTech)
+
+
+## Author
+Akshaye Aaron Azariah
+Computer Science Undergraduate
+Aspiring VC & Data-Driven Strategist
